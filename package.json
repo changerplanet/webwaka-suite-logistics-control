@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-logistics-control",
+  "version": "0.1.0",
+  "description": "WebWaka logistics suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
